@@ -2,6 +2,9 @@
 
 This GPT-4o powered Flask web app tells you how many calories there are in an image of a meal you upload
 
+![cover01.jpg](https://github.com/IgnatMaldive/calorie-counter/blob/main/Screenshot_2024-05-24_22-36-50.jpg)
+
+
 ## Quick Start
 
 0. Rename the `.env.sample` file into `.env` and add your OpenAI API key
